@@ -5,6 +5,8 @@
   ],
   "packageManager": "npm@11.7.0",
   "devDependencies": {
-    "turbo": "^2.6.3"
+    "@types/node": "^25.0.3",
+    "turbo": "^2.6.3",
+    "typescript": "^5.9.3"
   }
 }
